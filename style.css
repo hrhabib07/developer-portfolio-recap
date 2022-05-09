@@ -46,3 +46,13 @@ h2 {
   border-radius: 10px;
   padding: 20px;
 }
+#full-stack-developer {
+  border-left: 7px solid;
+  border-image: linear-gradient(orange, tomato);
+  border-image-slice: 1;
+}
+#baby-developer {
+  border-left: 7px solid;
+  border-image: linear-gradient(cyan, blue);
+  border-image-slice: 1;
+}
